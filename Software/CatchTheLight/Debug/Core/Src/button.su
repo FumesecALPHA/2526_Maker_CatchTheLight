@@ -1,0 +1,3 @@
+../Core/Src/button.c:41:6:test	24	static
+../Core/Src/button.c:73:6:Scan_Buttons	16	static
+../Core/Src/button.c:105:6:Check	16	static

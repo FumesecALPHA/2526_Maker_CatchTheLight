@@ -1,0 +1,8 @@
+../Core/Src/utils.c:16:6:random_idx	16	static
+../Core/Src/utils.c:23:6:random_idx_J1	16	static
+../Core/Src/utils.c:29:6:random_idx_J2	16	static
+../Core/Src/utils.c:35:6:test_led	8	static
+../Core/Src/utils.c:56:6:SETUP	8	static
+../Core/Src/utils.c:71:6:LOOP	8	static
+../Core/Src/utils.c:109:6:Winner	8	static
+../Core/Src/utils.c:125:6:Game	32	static
